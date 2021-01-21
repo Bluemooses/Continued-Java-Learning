@@ -7,6 +7,10 @@ public class Motherboard {
     private int cardSlots;
     private String bios;
 
+    public void loadProgram(String programName){
+        System.out.println("Program " + programName + "is now loading...");
+    }
+
     public String getModel() {
         return model;
     }
