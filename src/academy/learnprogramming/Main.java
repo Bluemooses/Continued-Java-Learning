@@ -16,6 +16,9 @@ public class Main {
         thePC.getMonitor().drawPixelAt(1500,1200, "blue");
         thePC.getMotherboard().loadProgram("Windows 10");
 
+        Tucker tucker = new Tucker(4, 2, true, true, "Tucker", "Brown", "Brown", false, true, true, true, true);
+        tucker.setTuckerToSleeping();
+
 
     }
 }

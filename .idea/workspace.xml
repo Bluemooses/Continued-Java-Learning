@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2158a527-c978-423d-a2fd-28a8552f3c3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Tucker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Motherboard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +28,15 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -53,6 +55,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -71,14 +74,27 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="953" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1611269874326">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="953" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1611269874326" />
-    <state x="725" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1611269100961">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="725" y="392" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.104.1920.1040@0.0.2560.1400" timestamp="1611269100961" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/academy/learnprogramming/Cat.java</url>
+          <line>3</line>
+          <properties field="name" class="academy.learnprogramming.Cat" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
